@@ -1,4 +1,4 @@
-###首先附上 Beautiful Soup 4.2.0 的英文文档[https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html#Tag](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html#Tag)
+###首先附上 Beautiful Soup 4.2.0 的英文文档[https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.html](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.html)
 #Beautiful Soup 文档
 Beautiful Soup是一个用来从<font color=#0099ff>HTML</font>和<font color=#0099ff>XML</font>提取数据的<font color=#0099ff>Python</font>库。
 它能根据你喜欢的提取器来提供你惯用的方式取导航，搜索和修改文档树。
